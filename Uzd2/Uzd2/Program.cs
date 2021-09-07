@@ -24,17 +24,10 @@ namespace Uzd2
                     age_s = Console.ReadLine();
                     age_t = int.TryParse(age_s, out age);
                 }
-                bool tests = age >= 18;
                 age += 1;
-                if (tests == true)
-                {
-                    Console.WriteLine("Nākamgad tev paliks {0}, Tu esi pilngadīgs", age);
-                }
-                else
-                {
-                    Console.WriteLine("Nākamgad tev paliks {0}, Tu vēl neesi pilngadīgs", age);
-                }
-            }
+                bool tests = age >= 18;
+                Console.WriteLine($"Nākamgad tev paliks {age}, Tu esi pilngadīgs: {tests}", age);
+            }    
             // 3 Uzd
             {
                 Console.WriteLine("\nNoteiksim lielāko skaitli. \nIevadi skaitli 1:");
@@ -126,14 +119,8 @@ namespace Uzd2
                     n_7t = int.TryParse(n_7s, out n_7);
                 }
 
-                if (n_7 % 2 == 0)
-                {
-                    Console.WriteLine("Skaitlis ir pāra");
-                }
-                else
-                {
-                    Console.WriteLine("Skaitlis ir nepāra");
-                }
+                bool n_7t2 = n_7 % 2 == 0;
+                Console.WriteLine($"Skaitlis ir pāra skaitlis: {n_7t2}");
             }
             //7 Uzd
             {
@@ -185,8 +172,6 @@ namespace Uzd2
                 int age_2;
                 string age_2s = Console.ReadLine();
                 bool age_2t = int.TryParse(age_2s, out age_2);
-
-
                 while (age_2t == false)
                 {
                     Console.WriteLine("Nav ievadīts skaitlis, pamēģini vēlreiz:");
