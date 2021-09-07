@@ -1,0 +1,16 @@
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.exe
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.deps.json
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.runtimeconfig.json
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.runtimeconfig.dev.json
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.dll
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\ref\Uzd2.dll
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\bin\Debug\net5.0\Uzd2.pdb
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.csproj.AssemblyReference.cache
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.AssemblyInfoInputs.cache
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.AssemblyInfo.cs
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.csproj.CoreCompileInputs.cache
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.dll
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\ref\Uzd2.dll
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.pdb
+C:\Users\Arturs\Desktop\Codes\Lekcijas\MD_2\Uzd2\Uzd2\obj\Debug\net5.0\Uzd2.genruntimeconfig.cache
